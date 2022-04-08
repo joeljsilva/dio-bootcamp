@@ -1,0 +1,26 @@
+Comandos Basicos
+
+Windows
+
+dir = lista todos diretórios (Disco C etc)
+cd = usado para navegar entre as pastas (cd / com a barra levara
+direto para o disco C)
+
+cd + nome da pasta = irá entrar dentro da pasta especifica
+
+cd .. = irá retornar uma pasta
+
+cls = Irá limpar o terminal
+
+Tecla TAB = auto completa o comando (ex: cd W, ao usar TAB completa o Windows do diretório, MUITO ÚTIL)
+
+mkdir = Usado para criar uma pasta/diretório
+
+echo > = usado para criar um arquivo (ex. echo hello > hello.txt)
+
+del = usado para deletar tudo dentro de uma pasta (ex. del workspace irá
+deletar tudo que tem na pasta e não A PASTA EM SI)
+
+rmdir = deletar o repositório/pasta (ex rmdir workspace /S /Q)
+
+ls / dir -a lista pasta ocultas

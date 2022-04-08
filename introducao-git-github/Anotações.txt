@@ -1,0 +1,16 @@
+openssl sha1 nomedoarquivo
+
+comando responsavel para mostrar o sha1 (código de 40 caracteres
+responsavel por criptografar o arquivo)
+
+Objetos fundamentais: Blob, Tree, Commit
+
+Blobs contem metadados dentro do GIT (blob \0)
+
+Tree também contem metadados dentro do git (Tree \0
+blob sha1 nomedoarquivo.txt)
+
+=================================================================
+
+Chave SSH é uma forma de estabelecer uma conexão segura entre
+duas maquinas
