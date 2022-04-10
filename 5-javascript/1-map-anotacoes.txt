@@ -1,0 +1,27 @@
+Para criar um map:
+
+const myMap = new Map()
+
+no Map sempre irá setar uma chave e um valor
+
+myMap.set('Apple', 'Fruit');
+// Map(1) {"apple" => "fruit"}
+
+myMap.get(apple);
+// "Fruit"  - No console irá aparecer o valor que nesse
+caso é "fruit" (valor da chave "apple")
+
+myMap.delete("apple")
+// true - Deleta a chave
+
+myMap.get("apple")
+// undefined - Irá retornar undefined ja que o valor
+não existe mais
+
+MAPS X OBJETOS
+
+- Maps podem ter chaves de qualquer tipo;
+- Maps possuem a propriedade length;
+- Maps são mais fáceis de iterar;
+- Utilizado quando o valor das chaves é desconhecido;
+- Os valores tem o mesmo tipo.
