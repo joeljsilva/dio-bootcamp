@@ -1,0 +1,14 @@
+return = retornará uma string
+
+throw = retornará de fato um Erro junto com a mensagem que
+quer ser passada
+
+new Error = Usado para criar um novo erro, ex:
+
+const MeuErro = new Error('Mensagem Inválida')
+
+você tambem pode dar um nome ao errado, ex:
+
+MeuErro.name = 'InvalidMessage';
+
+Throw myError para exibir
