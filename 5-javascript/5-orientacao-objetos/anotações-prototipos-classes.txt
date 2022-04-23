@@ -1,0 +1,7 @@
+Todos os objetos javascript herdam propriedades e 
+métodos de um prototype.
+O objeto Object.prototype está no topo desta cadeia.
+
+constructor
+getter e setter
+super()

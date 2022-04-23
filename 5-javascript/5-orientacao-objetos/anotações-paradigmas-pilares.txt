@@ -1,0 +1,29 @@
+Paradigma na programação
+
+Imperativo = foca em como você vai resolver o problema
+
+Declarativo = O que você vai fazer
+
+Orientação a objetos é um tipo de paradigma imperativo
+
+Os programas são "objetos" que possuem uma série de 
+propriedades.
+
+Pilares: 
+
+- Herança
+- Polimorfismo
+- Encapsulamento
+- Abstração
+
+Abstração = Simplificar e generalizar cada vez mais
+
+Herança = O objeto filho herda propriedades e métodos 
+do objeto pai.
+
+Encapsulamento = Cada classe tem propriedades e métodos independentes
+do restante do código.
+
+Polimorfismo = Objetos podem herdar a mesma classe do
+pai, mas se comportarem de forma diferente quando
+invocamos seus métodos.
