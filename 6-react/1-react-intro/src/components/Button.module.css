@@ -1,0 +1,7 @@
+.btn {
+  font-weight: bolder;
+  transition: .3s;
+}
+.btn:hover {
+  background-color: #ccc;
+}

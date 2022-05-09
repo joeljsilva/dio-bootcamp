@@ -1,0 +1,17 @@
+body {
+  background-color: #eee;
+  border: 2px solid black;
+  padding: 20px;
+}
+.background {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+
+button {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

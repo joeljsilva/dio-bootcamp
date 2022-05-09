@@ -1,0 +1,21 @@
+
+.lista {
+  padding: 20px;
+  list-style: none;
+}
+.lista li {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+}
+
+button {
+  margin-right: 20px;
+  padding: 15px 25px;
+  border: none;
+  background-color: green;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
