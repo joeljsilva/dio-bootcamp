@@ -1,0 +1,42 @@
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  margin-right: 15px;
+  transition: .3s;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: rgb(1, 85, 1);
+}
+.text {
+  width: 40px;
+  border: none;
+  padding: 10px;
+  background-color: lightgreen;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.resultado {
+  background-color: #444;
+  font-size: 24px;
+  color: white;
+  padding: 30px;
+}
+.deletar {
+  padding: 5;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
